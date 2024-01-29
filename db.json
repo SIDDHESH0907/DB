@@ -1,95 +1,90 @@
 {
-  "sunglasses" : [
-        {
-        "id": 81,
-        "title": "Round Silver Frame Sun Glasses",
-        "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-        "price": 19,
-        "discountPercentage": 10.1,
-        "rating": 4.94,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/81/1.jpg",
-        "https://i.dummyjson.com/data/products/81/2.jpg",
-        "https://i.dummyjson.com/data/products/81/3.jpg",
-        "https://i.dummyjson.com/data/products/81/4.webp",
-        "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 82,
-        "title": "Kabir Singh Square Sunglass",
-        "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
-        "price": 50,
-        "discountPercentage": 15.6,
-        "rating": 4.62,
-        "stock": 78,
-        "brand": "Designer Sun Glasses",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/82/1.jpg",
-        "https://i.dummyjson.com/data/products/82/2.webp",
-        "https://i.dummyjson.com/data/products/82/3.jpg",
-        "https://i.dummyjson.com/data/products/82/4.jpg",
-        "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 83,
-        "title": "Wiley X Night Vision Yellow Glasses",
-        "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
-        "price": 30,
-        "discountPercentage": 6.33,
-        "rating": 4.97,
-        "stock": 115,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/83/1.jpg",
-        "https://i.dummyjson.com/data/products/83/2.jpg",
-        "https://i.dummyjson.com/data/products/83/3.jpg",
-        "https://i.dummyjson.com/data/products/83/4.jpg",
-        "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 84,
-        "title": "Square Sunglasses",
-        "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
-        "price": 28,
-        "discountPercentage": 13.89,
-        "rating": 4.64,
-        "stock": 64,
-        "brand": "mastar watch",
-        "category": "sunglasses",
-        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
-        "images": [
-        "https://i.dummyjson.com/data/products/84/1.jpg",
-        "https://i.dummyjson.com/data/products/84/2.jpg",
-        "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
-        ]
-        },
-        {
-        "id": 85,
-        "title": "LouisWill Men Sunglasses",
-        "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
-        "price": 50,
-        "discountPercentage": 11.27,
-        "rating": 4.98,
-        "stock": 92,
-        "brand": "LouisWill",
-        "category": "sunglasses",
-        "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/85/1.jpg",
-        "https://i.dummyjson.com/data/products/85/2.jpg",
-        "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
-        ]
-        }
-        ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Healthfarm Whey Protein",
+      "price": 5499,
+      "product_link": "https://www.amazon.in/Healthfarm-Protein-Serving-Substance-Chocolate/dp/B0CBKRJS4F/ref=sxin_24_pa_sp_search_thematic_sspa?content-id=amzn1.sym.7053c8f7-fe9b-4bae-ac53-ef209df9a98b%3Aamzn1.sym.7053c8f7-fe9b-4bae-ac53-ef209df9a98b&crid=TLSZKGV0QWUC&cv_ct_cx=gym+protein&keywords=gym+protein&pd_rd_i=B0CBKRJS4F&pd_rd_r=fcfda015-06a7-49db-8fb0-c3cb7ae5eb9d&pd_rd_w=M00hn&pd_rd_wg=0w90V&pf_rd_p=7053c8f7-fe9b-4bae-ac53-ef209df9a98b&pf_rd_r=PCY8A3KRMPDQAV1C6MM2&qid=1706108954&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=gym+pr%2Caps%2C187&sr=1-2-428a61eb-7067-4b6b-9490-2a8ba2da9c66-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41lP2li1DpL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "MuscleBlaze Creatine",
+      "price": 899,
+      "product_link": "https://www.amazon.in/MuscleBlaze-Creatine-Monohydrate-Powder-100/dp/B00LLZ82O4/ref=sr_1_4?crid=3VWS6KUHPOZBX&keywords=gym+supplements&qid=1706115533&s=hpc&sprefix=gym+%2Chpc%2C185&sr=1-4",
+      "image": "https://m.media-amazon.com/images/I/61AiJjsQSVL._SX679_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "ON Whey Protein",
+      "price": 2049,
+      "product_link": "https://www.amazon.in/Optimum-Nutrition-Standard-Protein-Powder/dp/B019T0K132/ref=sr_1_6_mod_primary_new?crid=3VWS6KUHPOZBX&keywords=gym%2Bsupplements&qid=1706115533&s=hpc&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=gym%2B%2Chpc%2C185&sr=1-6&th=1",
+      "image": "https://m.media-amazon.com/images/I/71JMaQTUxRS._SX679_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nectar Whey Protein",
+      "price": 2799,
+      "product_link": "https://www.amazon.in/Muscle-Nectar-Concentrate-Digestive-Chocolate/dp/B099NDFLX7/ref=pd_rhf_dp_s_di_int_pop_multi_srecs_sabr_cn_d_sccl_1_7/257-8635349-3014501?pd_rd_w=vPlbX&content-id=amzn1.sym.c7348e78-1eb9-4979-badd-8730a8d65185&pf_rd_p=c7348e78-1eb9-4979-badd-8730a8d65185&pf_rd_r=8BYX62WTYZFAKYN9DQWE&pd_rd_wg=zGyl0&pd_rd_r=05eb6640-61d2-455c-b768-51fde865cdd1&pd_rd_i=B07GV9WYL4&th=1",
+      "image": "https://m.media-amazon.com/images/I/81yKt3C9A1S._SX679_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Healthfarm Pre Workout",
+      "price": 1149,
+      "product_link": "https://www.amazon.in/Healthfarm-Workout-Powder-Nutrition-Supplement/dp/B0CM39KVXW/ref=sr_1_13_sspa?crid=3VWS6KUHPOZBX&keywords=gym%2Bsupplements&qid=1706115533&s=hpc&sprefix=gym%2B%2Chpc%2C185&sr=1-13-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1",
+      "image": "https://m.media-amazon.com/images/I/711QkucoOLL._SX679_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Healthfarm Pre Workout",
+      "price": 2099,
+      "product_link": "https://www.amazon.in/Healthfarm-Workout-Powder-Nutrition-Supplement/dp/B0C7ZYPTYD/ref=sxin_23_pa_sp_search_thematic_sspa?content-id=amzn1.sym.7053c8f7-fe9b-4bae-ac53-ef209df9a98b%3Aamzn1.sym.7053c8f7-fe9b-4bae-ac53-ef209df9a98b&crid=3VWS6KUHPOZBX&cv_ct_cx=gym+supplements&keywords=gym+supplements&pd_rd_i=B0C7ZYPTYD&pd_rd_r=63c6b039-f5bb-4b24-8f2a-a9cc2a4362c6&pd_rd_w=1asTi&pd_rd_wg=6c1VH&pf_rd_p=7053c8f7-fe9b-4bae-ac53-ef209df9a98b&pf_rd_r=YEK6DSQQ3CAVVJ9NTY3N&qid=1706115533&s=hpc&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=gym+%2Chpc%2C185&sr=1-5-428a61eb-7067-4b6b-9490-2a8ba2da9c66-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1",
+      "image": "https://m.media-amazon.com/images/I/71iOZnQ-lfL._SX679_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Wellcore Creatine",
+      "price": 749,
+      "product_link": "https://www.amazon.in/Wellcore-Micronised-Monohydrate-Unflavoured-Absorption/dp/B0BX46DVXZ/ref=sxin_23_pa_sp_search_thematic_sspa?content-id=amzn1.sym.7053c8f7-fe9b-4bae-ac53-ef209df9a98b%3Aamzn1.sym.7053c8f7-fe9b-4bae-ac53-ef209df9a98b&crid=3VWS6KUHPOZBX&cv_ct_cx=gym%2Bsupplements&keywords=gym%2Bsupplements&pd_rd_i=B0BX46DVXZ&pd_rd_r=63c6b039-f5bb-4b24-8f2a-a9cc2a4362c6&pd_rd_w=1asTi&pd_rd_wg=6c1VH&pf_rd_p=7053c8f7-fe9b-4bae-ac53-ef209df9a98b&pf_rd_r=YEK6DSQQ3CAVVJ9NTY3N&qid=1706115533&s=hpc&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=gym%2B%2Chpc%2C185&sr=1-1-428a61eb-7067-4b6b-9490-2a8ba2da9c66-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1",
+      "image": "https://m.media-amazon.com/images/I/51qiX9z+61L._SX679_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nakpro Supplement",
+      "price": 899,
+      "product_link": "https://www.amazon.in/Supplement-Building-Recovery-supplement-Blueberry/dp/B0BLHLYGN2/ref=sr_1_22?crid=3VWS6KUHPOZBX&keywords=gym+supplements&qid=1706115533&s=hpc&sprefix=gym+%2Chpc%2C185&sr=1-22",
+      "image": "https://m.media-amazon.com/images/I/71agvNzTKsL._SX679_.jpg"
+    }
+  ],
+  "bottle": [
+    {
+      "id": 9,
+      "name": "Sport Bottle",
+      "price": 1099,
+      "product_link": "https://www.amazon.in/Boldfit-Bottles-Plastic-Bottle-Armygreen/dp/B0CNRSGV7Q?ref_=ast_sto_dp&th=1",
+      "image": "https://m.media-amazon.com/images/I/71uGkzsMlHL._SX679_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sport Bottle",
+      "price": 699,
+      "product_link": "https://www.amazon.in/Boldfit-Compartment-Leakproof-Guarantee-Preworkout/dp/B07XL2CGP6/ref=sr_1_2_sspa?crid=P5LBW3COGGG1&keywords=gym+bottles+for+men&qid=1706116049&s=hpc&sprefix=gym+bot%2Chpc%2C170&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+      "image": "https://m.media-amazon.com/images/I/716zbxz3qYL._SX679_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sport Bottle",
+      "price": 1499,
+      "product_link": "https://www.amazon.in/Boldfit-Gallon-Bottle-Marker-motivational/dp/B0BWN52T8F/ref=sr_1_17?crid=P5LBW3COGGG1&keywords=gym%2Bbottles%2Bfor%2Bmen&qid=1706116049&s=hpc&sprefix=gym%2Bbot%2Chpc%2C170&sr=1-17&th=1",
+      "image": "https://m.media-amazon.com/images/I/71f6sjQ1ujL._SX679_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sport Bottle",
+      "price": 1199,
+      "product_link": "https://www.amazon.in/MIGHTY-MINERALS-Bottles-Material-Stainless/dp/B0BNXFGTZ5/ref=sr_1_29?crid=P5LBW3COGGG1&keywords=gym+bottles+for+men&qid=1706116088&refinements=p_36%3A2485525031&rnid=2485523031&s=hpc&sprefix=gym+bot%2Chpc%2C170&sr=1-29",
+      "image": "https://m.media-amazon.com/images/I/418QtDXSALL._SX679_.jpg"
+    }
+  ]
 }
